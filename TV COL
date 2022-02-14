@@ -68,51 +68,51 @@ http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
 
 
 
-#EXTINF:-1, group-title="LATINO",HBTV TICAVISION OK
+#EXTINF:-1 tvg-logo="" group-title="LATINO",HBTV TICAVISION OK
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg", group-title="LATINO",DW 
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1, group-title="LATINO" CMB Televisión
+#EXTINF:-1 tvg-logo="" group-title="LATINO" CMB Televisión
 https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/playlist.m3u8
 
-#EXTINF:-1, group-title="LATINO", Retro Plus TV Señal 3
+#EXTINF:-1 tvg-logo="" group-title="LATINO", Retro Plus TV Señal 3
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 
 
-#EXTINF:-1, group-title="FAMILIAR", HispanTV
+#EXTINF:-1 tvg-logo=""  group-title="FAMILIAR", HispanTV
 https://live1.presstv.com/live/hispan.m3u8
 
-#EXTINF:-1, group-title="FAMILIAR", TV Peñol
+#EXTINF:-1 tvg-logo="" group-title="FAMILIAR", TV Peñol
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 
-#EXTINF:-1, group-title="FAMILIAR", Oasis TV
+#EXTINF:-1 tvg-logo="" group-title="FAMILIAR", Oasis TV
 https://5e85d90130e77.streamlock.net/6020/6020/playlist.m3u8
 
-#EXTINF:-1, group-title="FAMILIAR", TV Gracia
+#EXTINF:-1 tvg-logo="" group-title="FAMILIAR", TV Gracia
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
 
-#EXTINF:-1, group-title="FAMILIAR", Tele Familia
+#EXTINF:-1 tvg-logo="" group-title="FAMILIAR", Tele Familia
 https://cloud2.streaminglivehd.com:1936/8116/8116/playlist.m3u8
 
 
-#EXTINF:-1, group-title="radio", Recuerdos Retro Radio TV
+#EXTINF:-1 tvg-logo="" group-title="radio", Recuerdos Retro Radio TV
 https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
-#EXTINF:-1, group-title="radio", Retro Plus TV
+#EXTINF:-1 tvg-logo="" group-title="radio", Retro Plus TV
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1, group-title="radio", Retro Plus TV Señal 2
+#EXTINF:-1 tvg-logo="" group-title="radio", Retro Plus TV Señal 2
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 
 
-#EXTINF:-1,group-title="MUSICA", Telemusica
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", Telemusica
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
 
-#EXTINF:-1, group-title="MUSICA", Zapping Music
+#EXTINF:-1 tvg-logo="" group-title="MUSICA", Zapping Music
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 
-#EXTINF:-1, group-title="MUSICA" Amordiscos TV
+#EXTINF:-1 tvg-logo="" group-title="MUSICA" Amordiscos TV
 https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="MUSICA", Mundo de la Musica TV

@@ -1,11 +1,8 @@
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ", Caracol Noticias
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title=" TV COL ",CARACOL HD
-#EXTINF:-1, group-title="LATINO" UAO Play
-https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title=" TV COL ",CARACOL HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title=" TV COL ",CARACOL SD
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title=" TV COL ",CARACOL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title=" TV COL ",CARACOL HD
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title=" TV COL ", RCN NOTICIAS
 
@@ -20,7 +17,7 @@ https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ",TELEPACIFICO OK
 https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
 
-#EXTINF:-1, group-title=" TV COL ", 90 MINUTOS
+#EXTINF:-1 group-title=" TV COL ", 90 MINUTOS
 https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ",señal institucional OK
@@ -48,17 +45,16 @@ https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ", CNC Medellin
 
-
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ", CNC Pasto
 
-#EXTINF:-1, group-title=" TV COL ", Tele Pasto
+#EXTINF:-1 tvg-logo="" group-title=" TV COL ", Tele Pasto
 
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ",12 Valledupar OK
 
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ",TELE ISLAS OK
-
-#EXTINF:-1, group-title=" TV COL ", Tele Islas
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
+
+#EXTINF:-1 group-title=" TV COL ", Tele Islas
 
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ", Suram
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/playlist.m3u8
@@ -71,10 +67,10 @@ http://179.1.7.198:1935/live/TVAgroHD.stream_360p/chunklist_w842594670.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LATINO",HBTV TICAVISION OK
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg", group-title="LATINO",DW 
+#EXTINF:-1 tvg-logo="https://www.newslinereport.com/online/nota_dw-latinoamrica-pasa-a-llamarse-dw-espaol.jpg" group-title="LATINO",DW 
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="" group-title="LATINO" CMB Televisión
+#EXTINF:-1 tvg-logo="" group-title="LATINO", CMB Televisión
 https://liveingesta118.cdnmedia.tv/bethesdalive/smil:live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="LATINO", Retro Plus TV Señal 3
@@ -127,9 +123,9 @@ https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?Playlist
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title=" DEPORTES ", WIN SPORTS HD
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png", group-title=" DEPORTES ", ESPN 
+#EXTINF:-1 tvg-logo="" group-title=" DEPORTES ", ESPN 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/L0zLsl9.png", group-title=" DEPORTES ", ESPN 2
+#EXTINF:-1 tvg-logo="" group-title=" DEPORTES ", ESPN 2
 
 #EXTINF:-1 tvg-logo="" group-title=" DEPORTES ", Telecaribe Deportes
 
@@ -142,6 +138,3 @@ https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?Playlist
 #EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/United-States/tcm_global.png" group-title="SERIES", TCM
 
 #EXTINF:-1 tvg-logo="http://glmtv.pw/logo/prestige/United-States/tcm_global.png" group-title="SERIES", TCM HD
-
-
-

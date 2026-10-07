@@ -1,27 +1,27 @@
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ", Caracol Noticias
 http://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title=" TV COL ",CARACOL SD
-
+http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title=" TV COL ",CARACOL HD
-
+http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title=" TV COL ", RCN NOTICIAS
-
+http://138.121.15.230:9002/RCN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title=" TV COL ", RCN SD
-
+http://181.78.14.26:4000/play/a07m/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title=" TV COL ", RCN HD
-
+http://45.226.205.96:48000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-logo="http://217.182.175.40/logo/Pzh1qyZs.png" group-title=" TV COL ", RCN NOVELAS HD
-
+https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1200px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title=" TV COL ", CANAL UNO HD
 
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ",TELEPACIFICO OK
-https://stream.logicideas.media/telepacifico-live/smil:live.smil/chunklist_b4500000.m3u8
+http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
 
 #EXTINF:-1 group-title=" TV COL ", 90 MINUTOS
 https://live-edge-rbx-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/live-1500/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ",señal institucional OK
-https://streaming.rtvc.gov.co/TV_CanalInstitucional_live/smil:live.smil/chunklist_b1500000.m3u8
+http://190.61.47.54:8000/play/a00v/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ",canal 13 OK
 https://canaltrece-live.logicideas.media/canaltrece-live/smil:live.smil/chunklist_b2250000.m3u8

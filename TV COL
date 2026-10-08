@@ -1,17 +1,21 @@
 
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ",CARACOL HD2
 http://181.78.14.26:4000/play/a00d/index.m3u8
-#EXTINF:-1 tvg-logo="" TV COL ",CARACOL INTER
+#EXTINF:-1 tvg-logo="" group-title=" TV COL ",CARACOL INTER
 http://167.249.23.102:8000/play/a0ax/index.m3u8
-#EXTINF:-1 tvg-logo="" TV COL ", RCN HD2
+#EXTINF:-1 tvg-logo="" group-title=" TV COL ", RCN HD2
 http://181.78.14.26:4000/play/a07m/index.m3u8
-#EXTINF:-1 tvg-logo="" TV COL ", RCN MAS
+#EXTINF:-1 tvg-logo="" group-title=" TV COL ", RCN MAS
 http://45.226.205.96:48000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ", RCN NOVELAS
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" TV COL ",CANAL INSTITUCIONAL
+http://190.61.47.54:8000/play/a00v/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" TV COL ",CITYTV
+http://138.121.15.230:9002/CITY-TV/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ",TELEPACIFICO
 http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
-#EXTINF:-1 group-title=" TV COL ", 90 MINUTOS
+#EXTINF:-1 tvg-logo="" group-title=" TV COL ", 90 MINUTOS
 https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ", CNC Medellin
 http://138.94.3.106:8000/play/a02o/index.m3u8
@@ -33,8 +37,12 @@ https://us.streaminghd.cl/suramtv/index.m3u8
 http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LATINO",TELEMUNDO EAST
 https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
-
-
+#EXTINF:-1 tvg-logo="" group-title="LATINO",CANAL 13
+http://15.204.246.24:8080/Canal13HD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LATINO",CANAL TRO
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LATINO",CANAL TRO +
+https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title=" DEPORTES ", WIN SPORTS SD
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
@@ -48,23 +56,22 @@ http://181.78.197.59:8000/play/a07n/index.m3u8
 http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" DEPORTES ", ESPN 8
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" DEPORTES ",FOX SPORTS
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" DEPORTES ",FOX SPORTS 1
 http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" DEPORTES ",A SPORT
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-
 
 #EXTINF:-1 tvg-logo="" group-title=" CINE ",AV/
 http://45.70.201.81:8000/play/a010/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" CINE ",CINECANAL
+http://15.204.246.24:8080/CinecanalHD/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" CINE ",CINE CLASIC
+http://99.27.51.147/CineClassic/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" CINE ",CINE TERROR
+https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" DOCUMENTAL ",DISCOVERY
 http://45.171.64.30:6060/play/a032/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" DOCUMENTAL ",A&E
 http://138.121.15.230:9002/A&E/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" DOCUMENTAL ",ESPN NEWS
-http://41.205.93.154/ESPNNEWS/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SERIES",DISCOVERY KIDS
 http://38.65.175.84:8000/play/a0an/index.m3u8

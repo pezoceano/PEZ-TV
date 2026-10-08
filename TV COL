@@ -2,7 +2,9 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title=" TV COL ",CARACOL SD
 http://181.78.14.26:4000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title=" TV COL ",CARACOL HD
-http://181.78.14.26:4000/play/a00d/index.m3u8
+http://138.121.15.230:9002/CARACOL/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/768px-Caracol_TV_HD_logo.svg.png" group-title=" TV COL ",CARACOL INTER
+http://167.249.23.102:8000/play/a0ax/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title=" TV COL ", RCN NOTICIAS
 http://138.121.15.230:9002/RCN/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Canal_RCN_logo.svg/1200px-Canal_RCN_logo.svg.png" group-title=" TV COL ", RCN SD
@@ -15,75 +17,46 @@ https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ",TELEPACIFICO
 http://138.121.15.230:9002/TELEPACIFICO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ", TELE CARIBE
-http://138.121.15.230:9002/TELECARIBE/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ", TELE CARIBE PLUS
-https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
+#EXTINF:-1 group-title=" TV COL ", 90 MINUTOS
+https://play.cdn.enetres.net/621B146D29C541AFB1507809F038F471021/021/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" TV COL ", CNC Medellin
+http://138.94.3.106:8000/play/a02o/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ", CNC TULUA
 https://servers.amelbasoluciones.co:19360/cnctulua/cnctulua.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ", CNC BUGA
 https://movil.ejeserver.com/live/cncbuga.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ", Caracol Noticias
-
-#EXTINF:-1 group-title=" TV COL ", 90 MINUTOS
-
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ",señal institucional
-
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ",canal 13 OK
-
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ",CALI TV OK
-
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ", MUNDO + OK
-
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ", MUNDO +
-
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ", CNC Medellin
-
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ", CNC Pasto
-
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ", Tele Pasto
-
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ",TELE ISLAS OK
-
-#EXTINF:-1 group-title=" TV COL ", Tele Islas
-
+#EXTINF:-1 group-title=" TV COL ",TELE ISLAS
+http://190.61.47.54:8000/play/a015/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" TV COL ", TELE CARIBE
+http://138.121.15.230:9002/TELECARIBE/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" TV COL ", TELE CARIBE PLUS
+https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ", Suram
-
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ", TV Agro
-
+https://us.streaminghd.cl/suramtv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="LATINO",HBTV TICAVISION
-
-
-#EXTINF:-1 tvg-logo="" group-title="radio", Recuerdos Retro Radio TV
-https://593b04c4c5670.streamlock.net:443/8002/8002/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="radio", Retro Plus TV
-https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="radio", Retro Plus TV Señal 2
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
-
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", Telemusica
-https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA", Zapping Music
-https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="MUSICA" Amordiscos TV
-https://5b464b69d264e.streamlock.net:/Channels_live/ngrp:amordiscos_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png" group-title="MUSICA", Mundo de la Musica TV
-https://videostreaming.cloudserverlatam.com:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="" group-title="LATINO",TELEMUNDO
+http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
+#EXTINF:-1 tvg-logo="" group-title="LATINO",TELEMUNDO EAST
+https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title=" DEPORTES ", WIN SPORTS HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title=" DEPORTES ", WIN SPORTS SD
 http://138.121.15.230:9002/WIN-SPORT/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title=" DEPORTES ", WIN SPORTS HD
+http://181.78.12.119:16123/play/ch19/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" DEPORTES ", ESPN
+http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" DEPORTES ", ESPN 2
 http://181.78.12.119:16123/play/ch19/index.m3u8
-
+#EXTINF:-1 tvg-logo="" group-title=" DEPORTES ", ESPN 3
+http://190.83.2.182:8090/ESPN3/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" DEPORTES ", ESPN 4
+http://181.78.197.59:8000/play/a07n/index.m3u8
+#EXTINF:-1 tvg-logo="" group-title=" DEPORTES ", ESPN 8
+https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
+http://181.78.197.59:8000/play/a07z/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" CINE ", STAR
 http://45.70.201.81:8000/play/a010/index.m3u8

@@ -9,7 +9,7 @@ http://181.78.14.26:4000/play/a07m/index.m3u8
 http://45.226.205.96:48000/play/a0af/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ", RCN NOVELAS
 https://cdnlive.klicgo.net/rcnnovelas/live/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" TV COL ",CANAL INSTITUCIONAL
+#EXTINF:-1 tvg-logo="" group-title=" TV COL ",CANAL INSTITUCIONALX
 http://190.61.47.54:8000/play/a00v/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" TV COL ",CITYTV
 http://138.121.15.230:9002/CITY-TV/index.m3u8
@@ -33,21 +33,9 @@ https://liveingesta118.cdnmedia.tv/telecaribetvlive/smil:rtmp02.smil/playlist.m3
 https://us.streaminghd.cl/suramtv/index.m3u8
 
 
-#EXTINF:-1 tvg-logo="" group-title="LATINO",TELEMUNDO
-http://190.11.225.124:5000/live/telemundo_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="" group-title="LATINO",TELEMUNDO EAST
 https://streamer1.nexgen.bz/TELEMUNDO/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LATINO",CANAL 13
-http://15.204.246.24:8080/Canal13HD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LATINO",CANAL TRO
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LATINO",CANAL TRO +
-https://liveingesta118.cdnmedia.tv/canaltro2live/smil:troplus.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="" group-title="LATINO",FX
-http://15.204.246.24:8080/FXHD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/WinSports2017.png" group-title=" DEPORTES ", WIN SPORTS SD
-http://138.121.15.230:9002/WIN-SPORT/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" DEPORTES ", ESPN
 http://181.78.197.59:8000/play/a07z/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" DEPORTES ", ESPN 3
@@ -58,20 +46,9 @@ http://181.78.197.59:8000/play/a07n/index.m3u8
 http://181.78.12.119:16123/play/ch19/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" DEPORTES ", ESPN 8
 https://d3b6q2ou5kp8ke.cloudfront.net/ESPNTheOcho.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" DEPORTES ",FOX SPORTS 1
-http://85.237.89.160:9590/usa-s/FOX-SPORTS-1/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" CINE ",AV/
 http://45.70.201.81:8000/play/a010/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" CINE ",CINECANAL
-http://15.204.246.24:8080/CinecanalHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" CINE ",CINE CLASIC
-http://99.27.51.147/CineClassic/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" CINE ",CINE TERROR
-https://jmp2.uk/plu-5dcddf1ed95e740009fef7ab.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title=" MUSICA ",HIT
-http://hls127.freeott.top:8080/XitHD/video.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title=" DOCUMENTAL ",DISCOVERY
 http://45.171.64.30:6060/play/a032/index.m3u8
@@ -79,12 +56,8 @@ http://45.171.64.30:6060/play/a032/index.m3u8
 http://138.121.15.230:9002/A&E/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" DOCUMENTAL ",HISTORY HD
 http://15.204.246.24:8080/HistoryHD/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" DOCUMENTAL ",H
-https://lb.dstvmultimedia.com/HistoryChannel2/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title=" DOCUMENTAL ",HISTORY 2
 http://138.121.15.230:9002/HISTORY-2/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title=" DOCUMENTAL ",HISTORY
-http://15.204.246.24:8080/HistoryHD/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="SERIES",DISCOVERY KIDS
 http://38.65.175.84:8000/play/a0an/index.m3u8
@@ -96,9 +69,5 @@ https://c.mjh.nz/abc-kids.m3u8
 http://45.134.141.161:2200/ARG/Disney_Channel/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="SERIES",DISCOVERY INVESTIGACION
 http://38.65.175.84:8000/play/a0ch/index.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SERIES",ANIME VISION
-https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SERIES",ANIME HIDIVE
-https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
-#EXTINF:-1 tvg-logo="" group-title="SERIES",BBC NEWS
-http://138.121.15.230:9002/BBC-NEWS/index.m3u8
+
+
